@@ -1,0 +1,14 @@
+.AddMovie form {
+    border: 1px solid #333;
+    padding: 1rem;
+}
+
+.AddMovie form label {
+    display: block;
+    padding: 0.5rem;
+}
+
+.AddMovie form input {
+    display: block;
+    margin: 0 auto;
+}
